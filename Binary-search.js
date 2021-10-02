@@ -21,4 +21,4 @@ const binarySearch = (array, target) => {
   
   console.log("Target value not found in array");
 }
-
+console.log ("Some new changes were made");
